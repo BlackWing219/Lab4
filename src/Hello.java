@@ -8,9 +8,18 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA(){ }
+	public void methodA(){ 
+		
+		
+		for(int i =0; 1 < 1000; i--) {
+			
+		}
+	}
 
-	public void methodB(){ }
+	public void methodB(){
+		
+		
+	}
 
 	public void methodC(){ }
 }
